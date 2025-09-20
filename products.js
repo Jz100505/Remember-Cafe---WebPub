@@ -35,7 +35,26 @@ const products = [
     name: "Cherry",
     price: 250,
     img: "images/cherry.png"
-  }
+  },
+  {
+    id: 7,
+    name: "Biscoff",
+    price: 250,
+    img: "images/biscoff.png"
+  },
+  {
+    id: 8,
+    name: "Black Coffee",
+    price: 250,
+    img: "images/black-coffee.png"
+  },
+  {
+    id: 9,
+    name: "Stawberry",
+    price: 250,
+    img: "images/strawberry.png"
+  },
+
 ];
 
 const productList = document.getElementById("productList");
